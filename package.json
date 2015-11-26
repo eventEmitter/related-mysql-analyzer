@@ -1,7 +1,7 @@
 {
       "name"                                : "related-mysql-analyzer"
     , "description"                         : "Analyzes the currently connected db host for all its dbs, returns an object describing it"
-    , "version"                             : "2.0.0"
+    , "version"                             : "2.0.1"
     , "homepage"                            : "https://github.com/eventEmitter/related-mysql-analyzer"
     , "author"                              : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)"
     , "license"                             : "MIT"
@@ -18,13 +18,12 @@
     , "dependencies": {
           "ee-class"                        : "1.x"
         , "ee-types"                        : "1.x"
+        , "related-query-context"           : "2.x"
         , "ee-log"                          : "0.3.x"
-        , "async-method"                    : "0.1.x"
-        , "related-query-context"           : "0.1.x"
     }
     , "devDependencies": {
           "mocha"                           : "2.x"
-        , "related-postgres-connection"     : "*"
+        , "related-postgres-connection"     : "x.x"
         , "test-config"                     : "0.1.x"
     }
     , "optionalDependencies": {}
