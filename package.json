@@ -1,7 +1,7 @@
 {
       "name"                                : "related-mysql-analyzer"
     , "description"                         : "Analyzes the currently connected db host for all its dbs, returns an object describing it"
-    , "version"                             : "2.0.3"
+    , "version"                             : "2.0.4"
     , "homepage"                            : "https://github.com/eventEmitter/related-mysql-analyzer"
     , "author"                              : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)"
     , "license"                             : "MIT"
