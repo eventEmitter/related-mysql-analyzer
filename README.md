@@ -1,5 +1,7 @@
 # related-mysql-analyzer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/related-mysql-analyzer.svg)](https://greenkeeper.io/)
+
 Analyzes the currently connected db host for all its dbs, returns an object describing it
 
 
